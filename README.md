@@ -98,7 +98,4 @@ Workflow  step :
 
 # Người hướng dẫn và các thành viên trong nhóm
 - Thầy Bùi Sỹ Nguyên - Người hướng dẫn
-- Đoàn Đức Tài - MSV: 21001580
-- Nguyễn Đồng Trí Tâm - MSV: 21001581 - Leader
-- Đặng Đình Thắng - MSV: 21001586
-- Phan Thị Thu Trang - MSV: 21001593
+
